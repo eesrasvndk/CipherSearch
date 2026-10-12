@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CipherSearch.Cryptography/1.0.0": {
+        "dependencies": {
+          "CipherSearch.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "CipherSearch.Cryptography.dll": {}
+        }
+      },
+      "CipherSearch.Contracts/1.0.0": {
+        "runtime": {
+          "CipherSearch.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CipherSearch.Cryptography/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CipherSearch.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

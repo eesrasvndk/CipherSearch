@@ -1,0 +1,17 @@
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\bin\Debug\net8.0\CipherSearch.SearchSchemes.deps.json
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\bin\Debug\net8.0\CipherSearch.SearchSchemes.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\bin\Debug\net8.0\CipherSearch.SearchSchemes.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\bin\Debug\net8.0\CipherSearch.Contracts.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\bin\Debug\net8.0\CipherSearch.Cryptography.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\bin\Debug\net8.0\CipherSearch.Contracts.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\bin\Debug\net8.0\CipherSearch.Cryptography.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSearch.SearchSchemes.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSearch.SearchSchemes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSearch.SearchSchemes.AssemblyInfoInputs.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSearch.SearchSchemes.AssemblyInfo.cs
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSearch.SearchSchemes.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSe.2F2B8BE2.Up2Date
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSearch.SearchSchemes.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\refint\CipherSearch.SearchSchemes.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\CipherSearch.SearchSchemes.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.SearchSchemes\obj\Debug\net8.0\ref\CipherSearch.SearchSchemes.dll

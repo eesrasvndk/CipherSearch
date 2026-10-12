@@ -1,0 +1,11 @@
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\bin\Debug\net8.0\CipherSearch.Contracts.deps.json
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\bin\Debug\net8.0\CipherSearch.Contracts.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\bin\Debug\net8.0\CipherSearch.Contracts.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\CipherSearch.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\CipherSearch.Contracts.AssemblyInfoInputs.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\CipherSearch.Contracts.AssemblyInfo.cs
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\CipherSearch.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\CipherSearch.Contracts.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\refint\CipherSearch.Contracts.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\CipherSearch.Contracts.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Contracts\obj\Debug\net8.0\ref\CipherSearch.Contracts.dll

@@ -1,0 +1,15 @@
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\bin\Debug\net8.0\CipherSearch.Cryptography.deps.json
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\bin\Debug\net8.0\CipherSearch.Cryptography.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\bin\Debug\net8.0\CipherSearch.Cryptography.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\bin\Debug\net8.0\CipherSearch.Contracts.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\bin\Debug\net8.0\CipherSearch.Contracts.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSearch.Cryptography.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSearch.Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSearch.Cryptography.AssemblyInfoInputs.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSearch.Cryptography.AssemblyInfo.cs
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSearch.Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSe.AEA97900.Up2Date
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSearch.Cryptography.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\refint\CipherSearch.Cryptography.dll
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\CipherSearch.Cryptography.pdb
+C:\Users\mahmu\Desktop\CipherSearch\Backend\CipherSearch.Cryptography\obj\Debug\net8.0\ref\CipherSearch.Cryptography.dll

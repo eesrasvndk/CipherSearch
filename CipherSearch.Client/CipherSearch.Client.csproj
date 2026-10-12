@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CipherSearch.Contracts\CipherSearch.Contracts.csproj" />
+    <ProjectReference Include="..\CipherSearch.Cryptography\CipherSearch.Cryptography.csproj" />
+    <ProjectReference Include="..\CipherSearch.SearchSchemes\CipherSearch.SearchSchemes.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

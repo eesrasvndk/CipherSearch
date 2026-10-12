@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CipherSearch.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CipherSearch.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CipherSearch.Contracts.dll": {}
+        }
+      },
+      "CipherSearch.Cryptography/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CipherSearch.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CipherSearch.Cryptography.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CipherSearch.Cryptography.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CipherSearch.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../CipherSearch.Contracts/CipherSearch.Contracts.csproj",
+      "msbuildProject": "../CipherSearch.Contracts/CipherSearch.Contracts.csproj"
+    },
+    "CipherSearch.Cryptography/1.0.0": {
+      "type": "project",
+      "path": "../CipherSearch.Cryptography/CipherSearch.Cryptography.csproj",
+      "msbuildProject": "../CipherSearch.Cryptography/CipherSearch.Cryptography.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CipherSearch.Contracts >= 1.0.0",
+      "CipherSearch.Cryptography >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mahmu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mahmu\\Desktop\\CipherSearch\\Backend\\CipherSearch.SearchSchemes\\CipherSearch.SearchSchemes.csproj",
+      "projectName": "CipherSearch.SearchSchemes",
+      "projectPath": "C:\\Users\\mahmu\\Desktop\\CipherSearch\\Backend\\CipherSearch.SearchSchemes\\CipherSearch.SearchSchemes.csproj",
+      "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mahmu\\Desktop\\CipherSearch\\Backend\\CipherSearch.SearchSchemes\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\mahmu\\Desktop\\CipherSearch\\Backend\\CipherSearch.Contracts\\CipherSearch.Contracts.csproj": {
+              "projectPath": "C:\\Users\\mahmu\\Desktop\\CipherSearch\\Backend\\CipherSearch.Contracts\\CipherSearch.Contracts.csproj"
+            },
+            "C:\\Users\\mahmu\\Desktop\\CipherSearch\\Backend\\CipherSearch.Cryptography\\CipherSearch.Cryptography.csproj": {
+              "projectPath": "C:\\Users\\mahmu\\Desktop\\CipherSearch\\Backend\\CipherSearch.Cryptography\\CipherSearch.Cryptography.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
